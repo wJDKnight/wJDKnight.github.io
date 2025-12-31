@@ -10,7 +10,6 @@ name:
   pronouns: "he/him"
 postnominals:
   - "PhD"
-  - ""
 status:
   icon: "⚡"
 role: "Postdoctoral Associate"
@@ -60,14 +59,26 @@ skills:
         level: 5
       - label: "Machine Learning"
         level: 5
+      - label: "R"
+        level: 5
   - name: "Research & Communication"
     items:
-      - label: "Academic Writing"
-        level: 5
-      - label: "Conference Presentations"
-        level: 4
       - label: "Grant Proposals"
         level: 4
+      - label: "Led collaborative teams"
+        level: 5
+      - label: "Strategic thinking"
+        level: 5
+      - label: "Creative problem solver"
+        level: 5
+      - label: "Academic Writing"
+        level: 4
+      - label: "Excellent presentation skills"
+        level: 5
+      - label: "Adaptable to different audiences"
+        level: 5
+      - label: "Purpose driven"
+        level: 5
 languages:
   - name: "English"
     level: null
@@ -76,11 +87,11 @@ languages:
     level: null
     label: "Native"
 awards:
-  - title: "Yale University and Boehringer Ingelheim Biomedical Data Science Fellowship Program"
-    awarder: "Yale"
+  - title: "Yale University and Boehringer Ingelheim Biomedical Data Science Fellowship Program Yale"
+    awarder: "Yale & Boehringer Ingelheim "
     date: "2023-08-08"
     summary: ""
-    icon: "hero/award"
+    icon: "hero/trophy"
 weight: null
 ids:
   orcid: "0000-0001-5741-4114"

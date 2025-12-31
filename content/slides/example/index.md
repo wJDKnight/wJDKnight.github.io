@@ -149,7 +149,7 @@ Content appears step-by-step:
 
 {{< fragment >}}Finally the conclusion{{< /fragment >}}
 
-{{< fragment class="highlight-red" >}}This one can be **highlighted**!{{< /fragment >}}
+{{< fragment >}}{{< fragment class="highlight-red" >}}**This one can be highlighted**!{{< /fragment >}}{{< /fragment >}}
 
 Note:
 Use fragments to control pacing and maintain audience attention. Each fragment appears on click.

@@ -20,8 +20,8 @@ sections:
         url: uploads/resume.pdf
       headings:
         about: ''
-        education: ''
         interests: ''
+        education: ''
     design:
       # Use the new Gradient Mesh which automatically adapts to the selected theme colors
       background:
@@ -41,9 +41,9 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        Innovative Computational Scientist combining deep expertise in statistical machine learning and spatial omics with a strategic focus on collaborative, data-driven drug discovery. 
+        
+        I have successfully directed the spatial analysis of Lung Adenocarcinoma biopsies in partnership with Boehringer Ingelheim, designing custom pipelines to reveal critical immune infiltration patterns. My technical leadership is further evidenced by architecting novel LLM frameworks for spatial transcriptomics (ACL 2025) and spearheading large-scale scRNA-seq analyses (Nature Genetics), all while mentoring junior researchers to publication success. I am eager to leverage this intersection of computational innovation and oncology expertise to advance Roche’s pRED portfolio and deliver transformative medicines to patients.
 
         Please reach out to collaborate 😃
     design:
